@@ -1,5 +1,5 @@
 # CHANGE-TO-YOURNAME-animated-train
-service: animated-train
+service: animated-train-liz
 frameworkVersion: '3'
 
 provider:
